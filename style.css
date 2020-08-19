@@ -1,0 +1,33 @@
+* {
+    font-family: arial;
+}
+
+body {
+    background-color: #f3f3f3;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.game-box {
+    width: 75%;
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+    
+.resultmsg {
+    text-align: center;
+}
